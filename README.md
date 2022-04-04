@@ -3,3 +3,5 @@ After experimenting with java-script to create parametric design and 3d prints, 
 and began to explore this world </h3>
 
 [![Nir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NirReu)](https://github.com/NirReu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirReu&langs_count=8)](https://github.com/NirReu/github-readme-stats)
+
